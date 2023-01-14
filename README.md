@@ -118,9 +118,9 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 
 
 ## 🙂 **My Section** 
-**1. Open a pull request and let your teacher know that you’ve finished this course.** 
+* **1. Open a pull request and let your teacher know that you’ve finished this course.** 
 * I believe I have done this correctly, this is my first time doing so. It is titled 'frist-draft-content'. Using the resources I have learned to create a branch first to make changes and then commit my changes to the original branch.
-**2. Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!**
+* **2. Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!**
 * ###### ~~I don't know what I'm doing~~
 * # I know what I'm doing!!! 🤣🥲
 3. Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? [Here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) are steps on how to do that. 
