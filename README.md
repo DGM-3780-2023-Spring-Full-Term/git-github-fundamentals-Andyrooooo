@@ -108,7 +108,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 🙂 **My Section** 
 * **1. Open a pull request and let your teacher know that you’ve finished this course.** 
-I believe I have done this correctly, this is my first time doing so. It is titled 'frist-draft-content'. Using the resources I have learned to create a branch first to make changes and then commit my changes to the original branch.
+I believe I have done this correctly, this is my first time doing so. It is titled 'Github-fundamentals'. Using the resources I have learned to create a branch first to make changes and then commit my changes to the original branch.
 * **2. Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!**
 ###### ~~I don't know what I'm doing~~
 # I know what I'm doing!!! 🤣🥲
